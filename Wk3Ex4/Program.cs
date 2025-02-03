@@ -66,7 +66,7 @@ namespace Wk3Ex4
                             return;
                     default: //Invalid option
                         Console.WriteLine("Invalid option. Please choose between 1 and 4.");
-                        break
+                        break;
 
 
                 }
